@@ -44,6 +44,9 @@ The dashboard employs a top-down analytical funnel across 4 specialized tabs:
 * **Segment Monetary:** The total financial contribution of a specific RFM group (e.g., VIP vs. Big Spender).
 
 ## Key Insights
+* **The campaign lifecycle reveals three distinct phases:** In early March, initial acquisition captured high-intent users, yielding an exceptional peak ROAS of 344%. During mid-March, aggressive budget scaling successfully drove peak revenue volume while maintaining a profitable ROAS (130%-250%). However, post-March 18th, the campaign hit severe market saturation (ad fatigue); despite continued ad spending, revenue plummeted, driving ROAS well below the breakeven point and resulting in a cash bleed.
+<img width="964" height="342" alt="image" src="https://github.com/user-attachments/assets/e8ce3bbf-7545-40e0-884d-28c0c578535a" />
+
 * **The Tutorial "Reward" Bottleneck:** A massive 58% drop-off occurs at Step 1000 (Claim Reward). This suggests a critical technical bug or a "flow-break" in the reward UI that prevents players from entering the core game loop.
 <img width="1331" height="435" alt="image" src="https://github.com/user-attachments/assets/5e778f19-7e6d-4fe0-8a45-331460ff9be0" />
 
