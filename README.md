@@ -7,7 +7,7 @@ The primary objective is to provide a comprehensive visual tool to monitor the "
 
 ## Business Questions
 This project is designed to address the following key business problems:
-1. **Onboarding Efficiency:** Where is the primary bottleneck in the tutorial, and why are we losing nearly 60% of players at the "Claim Reward" step?
+1. **Onboarding Efficiency:** Where is the primary bottleneck in the tutorial, and why are we losing nearly 58% of players at the "Claim Reward" step?
 2. **Retention Barriers:** Which specific stages act as "difficulty walls" that trigger mass churn?
 3. **Monetization Polarization:** How dependent is the game on "Whale" players (VIPs), and why are active segments like "Frequent" players yielding zero revenue?
 4. **Engagement Quality:** Is there a correlation between high win rates and long-term player retention, or is the game becoming too easy and predictable?
