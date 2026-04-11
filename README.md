@@ -1,4 +1,4 @@
-# Autogun Heroes: Run and Gun Analytics 🔫📊
+# Autogun Heroes: Run and Gun Analysis 🔫📊
 <img width="2688" height="1242" alt="8971ee61-813f-49e5-b9f2-027eedae16d5" src="https://github.com/user-attachments/assets/ec1627b4-c7df-4338-9527-e101f2e2a1fb" />
 
 ## Project Description
