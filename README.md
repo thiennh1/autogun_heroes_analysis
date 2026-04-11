@@ -1,4 +1,5 @@
 # Autogun Heroes: Run and Gun Analytics 🔫📊
+<img width="2688" height="1242" alt="8971ee61-813f-49e5-b9f2-027eedae16d5" src="https://github.com/user-attachments/assets/ec1627b4-c7df-4338-9527-e101f2e2a1fb" />
 
 ## Project Description
 In the highly competitive mobile gaming market, understanding player behavior is the key to sustainable growth. The Autogun Heroes Analysis project was developed to transition from basic metric tracking to "behavioral diagnostics." By analyzing granular event data, this project aims to help Game Operations and Product Teams identify exactly where players lose interest and which segments drive the core economy.
